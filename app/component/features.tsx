@@ -37,7 +37,7 @@ function Features()
                                 No user data is collected
                             </h2>
                             <p className="text-[#1D2130] mt-[22px] text-[12px] xl:text-[20px]">
-                                we do not collect any type of data.after all it's <strong>Your Data</strong> not <strong>Ours</strong>.
+                                we do not collect any type of data.after all it&apos;s <strong>Your Data</strong> not <strong>Ours</strong>.
                             </p>
 
                         </li>
