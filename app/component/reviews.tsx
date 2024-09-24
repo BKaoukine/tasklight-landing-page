@@ -7,15 +7,15 @@ const reviewsvariants = {
 	initial: { x: 100 },
 	animate1: {
 		x: 0,
-		transition: { delay: 0.5, type: "spring", stiffness: 120 },
+		transition: { delay: 1, type: "spring", stiffness: 120 },
 	},
 	animate2: {
 		x: 0,
-		transition: { delay: 1, type: "spring", stiffness: 120 },
+		transition: { delay: 1.5, type: "spring", stiffness: 120 },
 	},
 	animate3: {
 		x: 0,
-		transition: { delay: 1.5, type: "spring", stiffness: 120 },
+		transition: { delay: 2, type: "spring", stiffness: 120 },
 	},
 };
 
